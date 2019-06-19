@@ -74,7 +74,7 @@ Parts used for making
 
 ### Arduino Code(Use Reference Ardino IDLE)
 
-```Arduino
+```C++
 #include <Servo.h>
 Servo sv1;
 Servo sv2;
