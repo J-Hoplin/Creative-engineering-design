@@ -72,6 +72,11 @@ Parts used for making
 ![p1](Photos/2.jpg)
 ![p2](Photos/3.jpg)
 
+
+### Video of our final result
+
+[Click Here](https://youtu.be/jcQyMvbSevU)
+
 ### Arduino Code(Use Reference Ardino IDLE)
 
 ```C++
