@@ -8,7 +8,7 @@ Creative Engineering Design - 2nd Grade major
 - [Chansol-Park](https://github.com/PnutButter-Jelly) :  Hongik.Univ, Department of Software Engineering and Communication
 - [Junseok-Jeong](https://github.com/dpan0883) : Hongik.Univ, Department of Software Engineering and Communication
 
-### (Readme Updated by Junho-Yoon(J-Hoplin))
+(Readme Updated by Junho-Yoon(J-Hoplin))
 ****
 
 ### Problem Recognition
