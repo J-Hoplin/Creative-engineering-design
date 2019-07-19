@@ -1,6 +1,8 @@
 Creative Engineering Design - 2nd Grade major
 ==========
 *****
+### License Info
+MIT License(for Opensource)
 
 ### Project Group Members (+ github)
 
