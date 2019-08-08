@@ -4,6 +4,11 @@ Creative Engineering Design - 2nd Grade major
 ### License Info
 MIT License(for Opensource)
 
+### Subject & Professor
+
+- Subject : Creative Engineering and Design
+- Professor : 정은성 교수님
+
 ### Project Group Members (+ github)
 
 - [Junho-Yoon](https://github.com/J-hoplin1) : Hongik.Univ, Department of Software Engineering and Communication
