@@ -6,7 +6,7 @@ MIT License(for Opensource)
 
 ### Subject & Professor
 
-- Subject : Creative Engineering and Design
+- Subject : Creative Engineering and Design(창의적 공학설계)
 - Professor : 정은성 교수님
 
 ### Project Group Members (+ github)
